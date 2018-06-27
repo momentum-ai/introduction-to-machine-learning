@@ -2,7 +2,10 @@
 
 You can run keras (an interface to tensorflow) directly in the browser without installing the python libraries on your machine using Googles Collaboratory tool.
 
-Do it by opening a notebook, clicking "Open in playground" to get your own copy (and accept that it is not created by Google).
+Do it by:
+- Open a notebook
+- Click "Open in playground" to get your own copy 
+- Accept that it is not created by Google
 
 Then read the code, ask for help when it is unclear what is happening(!), and run one cell at a time. Make sure not to miss any cell, and just start over from the top if anything is not working.
 
