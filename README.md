@@ -16,3 +16,75 @@ Then read the code, ask for help when it is unclear what is happening(!), and ru
 3. [Neural Network based Calculator](https://colab.research.google.com/drive/1zA-B4QszWnmaqtRd3PE9XBoFCdX47kUq#scrollTo=1Wkt7b8rzTI0) (learning addition of numbers by example)
 
 After looking at some examples you can modify the networks or start using keras to play with your own data. For example by downloading data from https://github.com/awesomedata/awesome-public-datasets
+
+## ML / Deep Learning lecture
+
+# Installations for working with deep learning
+
+<img src="https://i.imgur.com/NOPJO6B.png" style="width: 100%;">
+
+Programmet `conda` (som installeras genom miniconda) är till för att hantera olika versioner av python och python-moduler.
+
+## Linux/OS X
+
+1. **Install Miniconda:** https://conda.io/miniconda.html
+
+2. **Update permissions:**
+  
+  ```
+  $ chmod 777 ./Miniconda3-latest-MacOSX-x86_64.sh
+  ```
+
+3. **Install using bash:**
+  
+  ```
+  $ ./Miniconda3-latest-MacOSX-x86_64.sh
+  ```
+
+## Windows
+
+1. **Install bash. Easies via git bash:** https://git-scm.com/download/win
+2. **Install Miniconda:** https://conda.io/miniconda.html
+3. **Extra:** When installing tensorflow, you might need to follow: https://www.tensorflow.org/install/install_windows
+
+## Set up python and install dependecies
+
+1. **Create a new environment:** (Where the environment name is “ml” and the python version is 3.6.)
+  
+  ```
+  $ conda create -n ml python=3.6
+  ```
+
+2. **Activate your environment:**
+  
+  ```
+  $ source activate ml
+  ```
+
+3. Install packages
+  
+  ```
+  $ pip install tensorflow keras jupyter
+  ```
+  
+4. Start notebook
+
+  ```
+  $ jupyter notebook
+  ```
+
+  <img src="https://i.imgur.com/BEWN0fU.png" style="width: 100%;">
+
+
+Python version 2 eller version 3
+https://www.python.org/downloads/
+Jupyter notebooks
+Länk till information om installation
+http://jupyter.org/install
+Tensorflow
+https://www.tensorflow.org/install/
+Keras
+https://keras.io/#installation
+
+
+
