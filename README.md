@@ -1,4 +1,8 @@
 # Machine Learning & Artificial Intelligence Summer-Workshop
+<img src="https://i.imgur.com/7ndJudh.png" style="width: 100%;">
+
+## Presentation
+https://docs.google.com/presentation/d/1mffIyYIr4G2EdrSV-uk57RmhaU3_QTQ_KLBzncQ9I0E/edit?usp=sharing
 
 You can run keras (an interface to tensorflow) directly in the browser without installing the python libraries on your machine using Googles Collaboratory tool.
 
