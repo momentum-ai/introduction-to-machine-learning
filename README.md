@@ -4,6 +4,7 @@
 ## Presentation
 https://docs.google.com/presentation/d/1mffIyYIr4G2EdrSV-uk57RmhaU3_QTQ_KLBzncQ9I0E/edit?usp=sharing
 
+## Workshop
 You can run keras (an interface to tensorflow) directly in the browser without installing the python libraries on your machine using Googles Collaboratory tool.
 
 Do it by:
@@ -19,7 +20,7 @@ Then read the code, ask for help when it is unclear what is happening(!), and ru
 2. [Text Generation](https://colab.research.google.com/drive/1v8kVoM_Gn_E7LlykZLqYrtc8U-eY7Nt_) (learning to generate the same text as Nietzche would have written)
 3. [Neural Network based Calculator](https://colab.research.google.com/drive/1zA-B4QszWnmaqtRd3PE9XBoFCdX47kUq#scrollTo=1Wkt7b8rzTI0) (learning addition of numbers by example)
 
-### Local notebook:
+### More notebooks:
 ## Neural style transfer
 <img src="https://raw.githubusercontent.com/titu1994/Neural-Style-Transfer/master/images/inputs/style/metals/burnt_gold.jpg" style="width: 100%;">
 
