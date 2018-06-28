@@ -23,6 +23,7 @@ Then read the code, ask for help when it is unclear what is happening(!), and ru
 ## Neural style transfer
 <img src="https://raw.githubusercontent.com/titu1994/Neural-Style-Transfer/master/images/inputs/style/metals/burnt_gold.jpg" style="width: 100%;">
 
+## Find your own data
 After looking at some examples you can modify the networks or start using keras to play with your own data. For example by downloading data from https://github.com/awesomedata/awesome-public-datasets
 
 ## ML / Deep Learning lecture
