@@ -27,10 +27,10 @@ After looking at some examples you can modify the networks or start using keras 
 
 ## More notebooks:
 
-## Neural style transfer
+### Neural style transfer
 <img src="https://raw.githubusercontent.com/titu1994/Neural-Style-Transfer/master/images/inputs/style/metals/burnt_gold.jpg" style="width: 100%;">
 
-## ML / Deep Learning lecture
+### ML / Deep Learning lecture
 
 # Installations for working with deep learning
 
