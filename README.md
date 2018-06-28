@@ -90,5 +90,10 @@ https://keras.io/#installation
 ## Learning resources
 ### Google Machine Learning Crash Course
 https://developers.google.com/machine-learning/crash-course/ml-intro
-
-
+### Kaggle
+http://kaggle.com/
+### Youtube
+#### 3Blue1Brown (Math)
+https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
+#### Siraj Raval (Machine learning introductions)
+https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A
