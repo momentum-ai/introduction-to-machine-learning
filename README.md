@@ -20,12 +20,15 @@ Then read the code, ask for help when it is unclear what is happening(!), and ru
 2. [Text Generation](https://colab.research.google.com/drive/1v8kVoM_Gn_E7LlykZLqYrtc8U-eY7Nt_) (learning to generate the same text as Nietzche would have written)
 3. [Neural Network based Calculator](https://colab.research.google.com/drive/1zA-B4QszWnmaqtRd3PE9XBoFCdX47kUq#scrollTo=1Wkt7b8rzTI0) (learning addition of numbers by example)
 
-### More notebooks:
+
+
+### Find your own data
+After looking at some examples you can modify the networks or start using keras to play with your own data. For example by downloading data from https://github.com/awesomedata/awesome-public-datasets
+
+## More notebooks:
+
 ## Neural style transfer
 <img src="https://raw.githubusercontent.com/titu1994/Neural-Style-Transfer/master/images/inputs/style/metals/burnt_gold.jpg" style="width: 100%;">
-
-## Find your own data
-After looking at some examples you can modify the networks or start using keras to play with your own data. For example by downloading data from https://github.com/awesomedata/awesome-public-datasets
 
 ## ML / Deep Learning lecture
 
